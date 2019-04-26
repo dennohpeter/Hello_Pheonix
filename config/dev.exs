@@ -69,7 +69,7 @@ config :phoenix, :plug_init_mode, :runtime
 # Configure your database
 config :hello_pheonix, HelloPheonix.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "Dennis5050",
   database: "hello_pheonix_dev",
   hostname: "localhost",
   pool_size: 10
