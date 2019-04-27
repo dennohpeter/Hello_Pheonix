@@ -13,6 +13,7 @@
                         'Elixir.HelloPheonixWeb.ErrorHelpers',
                         'Elixir.HelloPheonixWeb.ErrorView',
                         'Elixir.HelloPheonixWeb.Gettext',
+                        'Elixir.HelloPheonixWeb.HelloController',
                         'Elixir.HelloPheonixWeb.LayoutView',
                         'Elixir.HelloPheonixWeb.PageController',
                         'Elixir.HelloPheonixWeb.PageView',
